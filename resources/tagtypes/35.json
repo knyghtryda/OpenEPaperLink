@@ -1,5 +1,5 @@
 {
-	"version": 2,
+	"version": 3,
 	"name": "M3 6.0\"",
 	"width": 600,
 	"height": 448,
@@ -20,6 +20,28 @@
 			"weekday": [ 300, 0, "Signika-SB.ttf", 110 ],
 			"month": [ 300, 310, "Signika-SB.ttf", 110 ],
 			"day": [ 300, 75, "Signika-SB.ttf", 250 ]
+		},
+		"4": {
+			"location": [ 15, 19, "fonts/calibrib38" ],
+			"icon": [ 435, 19, 150, 2 ],
+			"temp": [ 30, 168, "fonts/calibrib90" ],
+			"wind": [ 30, 345, "fonts/calibrib30" ],
+			"dir": [ 188, 336, 60 ],
+			"umbrella": [ 300, 336, 60 ]
+		},
+		"8": {
+			"location": [ 8, 0, "fonts/calibrib38" ],
+			"column": [ 7, 85 ],
+			"day": [ 41, 196, "fonts/calibrib22", 233, 359 ],
+			"rain": [ 43, 411 ],
+			"icon": [ 41, 261, 45 ],
+			"wind": [ 28, 205 ],
+			"line": [ 182, 439 ],
+			"currentwind": [ 345, 121, "fonts/calibrib30" ],
+			"temp": [ 8, 47, "fonts/calibrib90", 1 ],
+			"currenticon": [ 578, 0, 105, 2 ],
+			"dir": [ 308, 93, 60 ],
+			"umbrella": [ 293, 47, 45 ]
 		},
 		"10": {
 			"title": [ 300, 10, "fonts/bahnschrift30" ],
