@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "name": "Chroma60 5.8\"",
  "width": 600,
  "height": 448,
@@ -21,9 +21,9 @@
    },
    "4": {
     "location": [ 30, 20, "fonts/calibrib80" ],
-    "wind": [ 165, 200, "fonts/calibrib30" ],
+    "wind": [ 250, 190, "fonts/calibrib60" ],
     "temp": [ 35, 270, "fonts/calibrib100" ],
-    "icon": [ 440, 110, 150, 2 ],
+    "icon": [ 545, 110, 150, 2 ],
     "dir": [ 110, 80, 180 ],
     "umbrella": [ 515, 290, 102 ]
    },
